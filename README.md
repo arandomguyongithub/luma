@@ -17,4 +17,4 @@ That's okay, That's why you learn! We have a full documentation that shows you e
 
 To install, you can download the latest version below!
 
-[Download](https://github.com/arandomguyongithub/luma/raw/refs/heads/main/luma-1.0.zip)
+[Download Luma - Latest version (v1.0)](https://github.com/arandomguyongithub/luma/raw/refs/heads/main/luma-1.0.zip)
