@@ -49,6 +49,7 @@ If you'd like to **suggest something** or **give feedback** you can directly con
 Discord username: grantfr._
 
 
-To install, you can download the latest version below!
+To install, you can check the releases page (go back to the main page, look to the right side and look at the Releases page) or you can see the latest release below!
 
-[Download Luma - Latest version (v1.0)](https://github.com/arandomguyongithub/luma/raw/refs/heads/main/luma-1.0.zip)
+**WINDOWS**
+[Luma v1.0](https://github.com/arandomguyongithub/luma/releases/tag/latest)
