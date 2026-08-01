@@ -12,7 +12,8 @@ To start using Luma, you must create a .luma file and you can open it with visua
 Then, when you have finished writing your code, simply run it by opening the file!
 
 # I CAN'T CODE IN LUMA
-That's okay, That's why you learn! We have a full documentation that shows you every property and function in detail.
+That's okay, That's why you learn! We will soon have a full documentation that shows you every property and function in detail.
+For now, you can look through the luma.lua file/source code of the language and see each function and what they do as an alternative!
 
 
 To install, you can download the latest version below!
