@@ -51,5 +51,6 @@ Discord username: grantfr._
 
 To install, you can check the releases page (go back to the main page, look to the right side and look at the Releases page) or you can see the latest release below!
 
-**WINDOWS**
+**WINDOWS:**
+
 [Luma v1.0](https://github.com/arandomguyongithub/luma/releases/tag/latest)
