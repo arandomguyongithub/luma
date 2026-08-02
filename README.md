@@ -1,5 +1,6 @@
-Luma, a powerful, fast and strong programming language based in Lua which was made to help new coders begin their journey and create more simplicity in the coding industry!
-This is also inspired by luau (the Roblox coding language). It's like luau but for your real computer!. Or think of it as lua but with way more stuff.
+Luma, a Lua variant that brings multiple new features such as plugins, new classes/types, new libraries and a built-in UI library!
+This is inspired by Luau (the Roblox programming language) and was made in Lua.
+Luma is made to **help new developers begin their coding journey** and **bring more content to Lua**
 
 # HOW TO INSTALL
 1. Extract the zip file **into your user directory**
@@ -25,7 +26,7 @@ While it's possible and will eventually happen, managing updates for all three o
 2. Custom file extensions
 3. Functions like `shutdown`, `restart` or `logout` as MacOS Security measures require administrator to perform actions like that.
 And alot of other things that I wont mention here. But there are some benefits to developing on MacOS too that make stuff easier.
-As you can probably tell, we are mainly focused on MacOS Development rather than Linux. But don't worry! Linux support will still be coming. It may take longer though as I have a lot less knowledge about Linux development than MacOS, even though they are quite similar. Linux development will be especially harder without proper knowledge and also revolving UI. Things like popup, (redacted for future versions) and others may not work and be deprecated/removed for the Linux version. **If** any of these are to happen for Linux users, there will be something to make up for these. But popup and (redacted for future versions) may also simply just be different but not deprecated/removed.
+As you can probably tell, we are mainly focused on MacOS Development rather than Linux. But don't worry! Linux support will still be coming. It may take longer though as I have a lot less knowledge about Linux development than MacOS, even though they are quite similar. Linux development will be especially harder without proper knowledge and also revolving UI. Things like popup, lumaUI and others may not work and be deprecated/removed for the Linux version. **If** any of these are to happen for Linux users, there will be something to make up for these. But popup and lumaUI may also simply just be different but not deprecated/removed.
 I think that's enough talking about OS Supporting. You get the point.
 **SUMMARY**: MacOS Will be a primary target but may come in later versions around 1.5 - 2.5. Linux may be much harder and some features may be deprecated/removed
 
